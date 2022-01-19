@@ -1,0 +1,43 @@
+{
+  "name": "Lemuria 2022 #30",
+  "symbol": "LL",
+  "description": "Lemuria Live's Logo NFT",
+  "seller_fee_basis_points": 1500,
+  "image": "image.png",
+  "external_url": "https://lemuria.live",
+  "edition": 30,
+  "creator": "Ramsey Kablaoui for Lemuria Live",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background3"
+    },
+    {
+      "trait_type": "Shield",
+      "value": "shield3"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "geometry4"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "logo1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "1PrqgXHhNMMbFxHLgBzD7n2MoyhpG2ouy9jGYew98Az",
+        "share": 100
+      }
+    ]
+  }
+}
